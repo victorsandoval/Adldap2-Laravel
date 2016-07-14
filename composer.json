@@ -9,7 +9,7 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "victorsandoval/Adldap2": "6.0.*"
+        "victorsandoval/adldap2": "6.0.20"
     },
     "require-dev": {
         "orchestra/testbench": "~3.2"
