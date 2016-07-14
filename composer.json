@@ -1,4 +1,5 @@
 {
+    "minimum-stability": "dev",
     "name": "victorsandoval/adldap2-laravel",
     "description": "Adldap2 for Laravel 5.",
     "keywords": ["adldap", "adldap2", "ldap", "laravel"],
