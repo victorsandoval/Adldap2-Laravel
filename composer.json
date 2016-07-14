@@ -5,12 +5,8 @@
     "keywords": ["adldap", "adldap2", "ldap", "laravel"],
     "license": "MIT",
     "type": "project",
-    "repositories": [
-        { "type": "vcs", "url": "https://github.com/victorsandoval/adldap2" }
-    ],
     "require": {
-        "php": ">=5.5.0",
-        "victorsandoval/adldap2": "6.0.*"
+        "php": ">=5.5.0"
     },
     "require-dev": {
         "orchestra/testbench": "~3.2"
